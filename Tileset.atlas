@@ -60,6 +60,13 @@ TileSets/Nameless/Tiles/Grassland4
   orig: 148, 148
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/Grassland7
+  rotate: false
+  xy: 1036, 0
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
 TileSets/Nameless/Tiles/Plains2
   rotate: false
   xy: 1184, 0

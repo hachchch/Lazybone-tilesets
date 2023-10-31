@@ -20,9 +20,9 @@ TileSets/Nameless/Tiles/Lakes
   index: -1
 TileSets/Nameless/Tiles/Plains
   rotate: false
-  xy: 296, 0
-  size: 148, 148
-  orig: 148, 148
+  xy: 306, 10
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains2

@@ -62,21 +62,21 @@ TileSets/Nameless/Tiles/Plains5
   index: -1
 TileSets/Nameless/Tiles/Grassland
   rotate: false
-  xy: 592, 0
+  xy: 592, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland2
   rotate: false
-  xy: 592, 128
+  xy: 592, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland3
   rotate: false
-  xy: 720, 0
+  xy: 720, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -90,21 +90,21 @@ TileSets/Nameless/Tiles/Plains6
   index: -1
 TileSets/Nameless/Tiles/Grassland4
   rotate: false
-  xy: 848, 0
+  xy: 848, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland5
   rotate: false
-  xy: 848, 128
+  xy: 848, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland6
   rotate: false
-  xy: 976, 0
+  xy: 976, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

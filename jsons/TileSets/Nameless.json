@@ -1,5 +1,5 @@
 {
-        "useColorAsBaseTerrain": "false",
+        "useColorAsBaseTerrain": "true",
         "fallbackTileSet": "Minimal",
-        "tileScales": {"Lakes": 1.05,"Ocean": 1.1,"Coast": 1.05,"Plains":1.1,"Grassland":1.1,"Tundra": 1.1,"Desert": 1.1,"Snow": 1.1},
+        "tileScales": {"Lakes": 1.05,"Ocean": 1.05,"Coast": 1.05,"Plains":1.05,"Grassland":1.05,"Tundra": 1.05,"Desert": 1.055,"Snow": 1.05},
 }

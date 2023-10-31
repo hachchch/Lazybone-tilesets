@@ -7,42 +7,42 @@ repeat: none
 TileSets/Nameless/Tiles/Grassland+Hill
   rotate: false
   xy: 0, 0
-  size: 148, 148
-  orig: 148, 148
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains+Hill
   rotate: false
-  xy: 148, 0
-  size: 148, 148
-  orig: 148, 148
+  xy: 128, 0
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland+Hill2
   rotate: false
-  xy: 296, 0
-  size: 148, 148
-  orig: 148, 148
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains+Hill2
   rotate: false
-  xy: 0, 148
-  size: 148, 148
-  orig: 148, 148
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains+Hill3
   rotate: false
-  xy: 148, 148
-  size: 148, 148
-  orig: 148, 148
+  xy: 128, 128
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland+Hill3
   rotate: false
-  xy: 296, 148
-  size: 148, 148
-  orig: 148, 148
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1

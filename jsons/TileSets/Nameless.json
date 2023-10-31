@@ -1,0 +1,5 @@
+{
+        "useColorAsBaseTerrain": "false",
+        "fallbackTileSet": "HexaRealm",
+        "tileScales": {"Plains":1.2,"Grassland":1.2,"Tundra": 1.2,"Desert": 1.2,"Snow": 1.2},
+}

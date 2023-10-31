@@ -25,7 +25,6 @@ TileSets/Nameless/Tiles/Grassland+Hill2
   orig: 148, 148
   offset: 0, 0
   index: -1
-
 TileSets/Nameless/Tiles/Plains+Hill2
   rotate: false
   xy: 0, 148

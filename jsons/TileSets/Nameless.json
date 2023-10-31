@@ -2,4 +2,5 @@
         "useColorAsBaseTerrain": "false",
         "fallbackTileSet": "HexaRealm",
         "tileScales": {"Ocean": 1.2,"Coast": 1.2,"Plains":1.2,"Grassland":1.2,"Tundra": 1.2,"Desert": 1.2,"Snow": 1.2},
+        "tileScale": 1.2,
 }

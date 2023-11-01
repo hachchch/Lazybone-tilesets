@@ -9,7 +9,7 @@ TileSets/Nameless/Tiles/Grassland+Hill
   xy: 0, 20
   size: 128, 138
   orig: 128, 138
-  offset: 0, 20
+  offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra+Hill
   rotate: false

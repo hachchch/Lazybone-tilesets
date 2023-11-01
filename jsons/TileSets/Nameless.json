@@ -1,4 +1,9 @@
 {
         "useColorAsBaseTerrain": "true",
         "fallbackTileSet": "Minimal",
+        "ruleVariants": {
+                // Forests and Jungles
+                "Tundra+Forest": ["Tundra","TF"],
+                "Forest+Cattle": ["RF","Cattle"],
+        }
 }

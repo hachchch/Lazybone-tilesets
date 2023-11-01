@@ -7,8 +7,8 @@ repeat: none
 TileSets/Nameless/Tiles/Grassland+Hill
   rotate: false
   xy: 0, 10
-  size: 128, 128
-  orig: 128, 128
+  size: 128, 138
+  orig: 128, 138
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra+Hill

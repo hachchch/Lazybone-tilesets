@@ -76,28 +76,28 @@ TileSets/Nameless/Tiles/Snow2
   index: -1
 TileSets/Nameless/Tiles/Tundra
   rotate: false
-  xy: 640, 128
+  xy: 640, 131
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra2
   rotate: false
-  xy: 768, 0
+  xy: 768, 3
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra3
   rotate: false
-  xy: 768, 128
+  xy: 768, 131
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra4
   rotate: false
-  xy: 896, 0
+  xy: 896, 3
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

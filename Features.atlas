@@ -6,10 +6,10 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/Nameless/Tiles/Grassland+Hill
   rotate: false
-  xy: 0, 10
+  xy: 0, 20
   size: 128, 138
   orig: 128, 138
-  offset: 0, 0
+  offset: 0, -20
   index: -1
 TileSets/Nameless/Tiles/Tundra+Hill
   rotate: false

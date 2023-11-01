@@ -1,7 +1,7 @@
 {
         "useColorAsBaseTerrain": "false",
         "fallbackTileSet": "Minimal",
-        "tileScales": {"Grassland": 0.95},
+        "tileScales": {"Grassland": 0.96},
         "ruleVariants": {
                 // Forests and Jungles
                 "Tundra+Forest": ["Tundra","TF"],

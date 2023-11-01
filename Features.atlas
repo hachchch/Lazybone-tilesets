@@ -144,14 +144,14 @@ TileSets/Nameless/Tiles/Forest
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Forest
+TileSets/Nameless/Tiles/Forest2
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Forest
+TileSets/Nameless/Tiles/Forest3
   rotate: false
   xy: 1280, 128
   size: 128, 128

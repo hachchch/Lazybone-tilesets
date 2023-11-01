@@ -13,7 +13,7 @@ TileSets/Nameless/Tiles/Mountain
   index: -1
 TileSets/Nameless/Tiles/Grassland
   rotate: false
-  xy: 128, 20
+  xy: 128, 0
   size: 128, 138
   orig: 128, 138
   offset: 0, 0

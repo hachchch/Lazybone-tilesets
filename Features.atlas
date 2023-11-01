@@ -39,7 +39,7 @@ TileSets/Nameless/Tiles/Snow+Hill2
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Swamp
+TileSets/Nameless/Tiles/Marsh
   rotate: false
   xy: 256, 128
   size: 128, 128

@@ -13,7 +13,7 @@ TileSets/Nameless/Tiles/Mountain
   index: -1
 TileSets/Nameless/Tiles/Grassland
   rotate: false
-  xy: 128, 0
+  xy: 128, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -27,35 +27,35 @@ TileSets/Nameless/Tiles/Plains
   index: -1
 TileSets/Nameless/Tiles/Grassland2
   rotate: false
-  xy: 128, 128
+  xy: 128, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland3
   rotate: false
-  xy: 256, 128
+  xy: 256, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland4
   rotate: false
-  xy: 384, 0
+  xy: 384, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland5
   rotate: false
-  xy: 384, 128
+  xy: 384, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland6
   rotate: false
-  xy: 512, 0
+  xy: 512, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

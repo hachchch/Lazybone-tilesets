@@ -6,168 +6,168 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/Nameless/Tiles/Mountain
   rotate: false
-  xy: 0, 10
+  xy: 0, 0
   size: 128, 200
   orig: 128, 200
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland
   rotate: false
-  xy: 128, 10
+  xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains
   rotate: false
-  xy: 256, 10
+  xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland2
   rotate: false
-  xy: 128, 138
+  xy: 128, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland3
   rotate: false
-  xy: 256, 138
+  xy: 256, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland4
   rotate: false
-  xy: 384, 10
+  xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland5
   rotate: false
-  xy: 384, 138
+  xy: 384, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Grassland6
   rotate: false
-  xy: 512, 10
+  xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Snow
   rotate: false
-  xy: 512, 138
+  xy: 512, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Snow2
   rotate: false
-  xy: 640, 10
+  xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra
   rotate: false
-  xy: 640, 138
+  xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra2
   rotate: false
-  xy: 768, 10
+  xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra3
   rotate: false
-  xy: 768, 138
+  xy: 768, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Tundra4
   rotate: false
-  xy: 896, 10
+  xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains2
   rotate: false
-  xy: 896, 138
+  xy: 896, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains3
   rotate: false
-  xy: 1024, 10
+  xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains4
   rotate: false
-  xy: 1024, 138
+  xy: 1024, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains5
   rotate: false
-  xy: 1152, 10
+  xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains6
   rotate: false
-  xy: 1152, 138
+  xy: 1152, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Coast
   rotate: false
-  xy: 1280, 10
+  xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Ocean
   rotate: false
-  xy: 1280, 138
+  xy: 1280, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Lakes
   rotate: false
-  xy: 1408, 10
+  xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Desert
   rotate: false
-  xy: 1408, 138
+  xy: 1408, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Desert2
   rotate: false
-  xy: 1536, 10
+  xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

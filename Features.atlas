@@ -94,35 +94,35 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/Grassland+Hill
+TileSets/Nameless/Tiles/Flood plains
   rotate: false
-  xy: 0, 0
+  xy: 0, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Tundra+Hill
+TileSets/Nameless/Tiles/Desert+Hill
   rotate: false
-  xy: 128, 10
-  size: 128, 128
-  orig: 128, 128
+  xy: 128, -10
+  size: 128, 138
+  orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Snow+Hill
+TileSets/Nameless/Tiles/Grassland+Hill
   rotate: false
-  xy: 256, 10
-  size: 128, 128
-  orig: 128, 128
+  xy: 256, -10
+  size: 128, 138
+  orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Tundra+Hill2
+TileSets/Nameless/Tiles/Flood plains2
   rotate: false
   xy: 0, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Snow+Hill2
+TileSets/Nameless/Tiles/Desert+Hill2
   rotate: false
   xy: 128, 138
   size: 128, 128
@@ -138,12 +138,12 @@ TileSets/Nameless/Tiles/Marsh
   index: -1
 TileSets/Nameless/Tiles/Marsh2
   rotate: false
-  xy: 384, 10
-  size: 128, 128
-  orig: 128, 128
+  xy: 384, -10
+  size: 128, 138
+  orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains+Hill
+TileSets/Nameless/Tiles/Snow+Hill
   rotate: false
   xy: 384, 138
   size: 128, 128
@@ -152,9 +152,9 @@ TileSets/Nameless/Tiles/Plains+Hill
   index: -1
 TileSets/Nameless/Tiles/Plains+Hill2
   rotate: false
-  xy: 512, 10
-  size: 128, 128
-  orig: 128, 128
+  xy: 512, -10
+  size: 128, 138
+  orig: 128, 138
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains+Hill3

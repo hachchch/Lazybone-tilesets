@@ -18,14 +18,14 @@ TileSets/Nameless/Tiles/Fort
   orig: 128, 148
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-China
+TileSets/Nameless/Tiles/City-China
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Korea
+TileSets/Nameless/Tiles/City-Korea
   rotate: false
   xy: 256, 0
   size: 128, 128
@@ -242,7 +242,7 @@ TileSets/Nameless/Tiles/Offshore Platform
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Japan
+TileSets/Nameless/Tiles/City-Japan
   rotate: false
   xy: 1536, 128
   size: 128, 128
@@ -263,28 +263,28 @@ TileSets/Nameless/Tiles/Wheat+Farm
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Ancient era
+TileSets/Nameless/Tiles/City-Ancient era
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Classical era
+TileSets/Nameless/Tiles/City-Classical era
   rotate: false
   xy: 1792, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Medieval era
+TileSets/Nameless/Tiles/City-Medieval era
   rotate: false
   xy: 1920, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Industrial era
+TileSets/Nameless/Tiles/City-Industrial era
   rotate: false
   xy: 1920, 128
   size: 128, 128

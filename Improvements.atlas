@@ -177,7 +177,7 @@ TileSets/Nameless/Tiles/Farm
   xy: 1664, 118
   size: 128, 128
   orig: 128, 128
-  offset: 0, 10
+  offset: 0, -20
   index: -1
 TileSets/Nameless/Tiles/Wheat+Farm
   rotate: false

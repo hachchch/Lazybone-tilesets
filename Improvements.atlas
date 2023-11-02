@@ -4,161 +4,154 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/Whales
+TileSets/Nameless/Tiles/Citadel
   rotate: false
   xy: 0, 0
-  size: 128, 128
-  orig: 128, 128
+  size: 128, 148
+  orig: 128, 148
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat
+TileSets/Nameless/Tiles/Fort
   rotate: false
   xy: 128, 0
-  size: 128, 128
-  orig: 128, 128
+  size: 128, 148
+  orig: 128, 148
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Cattle
-  rotate: false
-  xy: 0, 128
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-TileSets/Nameless/Tiles/Fish
-  rotate: false
-  xy: 128, 128
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-TileSets/Nameless/Tiles/Crab
+TileSets/Nameless/Tiles/City center
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Stone
+TileSets/Nameless/Tiles/Lumber mill
   rotate: false
-  xy: 384, 128
+  xy: 256, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Horses
+TileSets/Nameless/Tiles/Trading post
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Marble
+TileSets/Nameless/Tiles/Holy site
+  rotate: false
+  xy: 384, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Academy
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Incense
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 512, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wine
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Cotton
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Aluminum
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 768, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Truffles
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Bananas
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Dyes
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 896, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Ivory
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Gold Ore
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 1024, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Copper
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Silver
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 1152, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Iron
+TileSets/Nameless/Tiles/Polder
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Uranium
+TileSets/Nameless/Tiles/Oil well
   rotate: false
   xy: 1280, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Gems
+TileSets/Nameless/Tiles/Offshore Platform
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Coal
+TileSets/Nameless/Tiles/City center
   rotate: false
   xy: 1408, 128
   size: 128, 128

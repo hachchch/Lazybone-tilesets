@@ -13,7 +13,7 @@ TileSets/Nameless/Tiles/Citadel
   index: -1
 TileSets/Nameless/Tiles/Fort
   rotate: false
-  xy: 128, -30
+  xy: 128, -27
   size: 128, 148
   orig: 128, 148
   offset: 0, 0

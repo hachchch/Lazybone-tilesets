@@ -76,84 +76,84 @@ TileSets/Nameless/Tiles/Plains+Hill3
   index: -1
 TileSets/Nameless/Tiles/Jungle
   rotate: false
-  xy: 640, 10
+  xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Jungle2
   rotate: false
-  xy: 640, 138
+  xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Jungle3
   rotate: false
-  xy: 768, 10
+  xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Jungle4
   rotate: false
-  xy: 768, 138
+  xy: 768, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Jungle5
   rotate: false
-  xy: 896, 10
+  xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/TF
   rotate: false
-  xy: 896, 138
+  xy: 896, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/RF
   rotate: false
-  xy: 1024, 10
+  xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/TF2
   rotate: false
-  xy: 1024, 138
+  xy: 1024, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/RJ
   rotate: false
-  xy: 1152, 10
+  xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Forest
   rotate: false
-  xy: 1152, 138
+  xy: 1152, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Forest2
   rotate: false
-  xy: 1280, 10
+  xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Forest3
   rotate: false
-  xy: 1280, 138
+  xy: 1280, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

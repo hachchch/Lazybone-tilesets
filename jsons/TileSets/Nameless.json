@@ -5,6 +5,11 @@
         "ruleVariants": {
                 // Forests and Jungles
                 "Tundra+Forest": ["Tundra","TF"],
+                "Tundra+Hill+Forest": ["Tundra","Hill","TF"],
+                "Grassland+Hill+Forest": ["Grassland","Hill","Forest"],
+                "Grassland+Hill+Forest": ["Plains","Hill","Forest"],
+                "Grassland+Hill+Forest+Cattle": ["Grassland","Hill","RF","Cattle"],
                 "Grassland+Forest+Cattle": ["Grassland","RF","Cattle"],
+                "Grassland+Jungle+Cattle": ["Grassland","RJ","Cattle"],
         }
 }

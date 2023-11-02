@@ -6,42 +6,175 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/Nameless/Tiles/Whales
   rotate: false
-  xy: 0, 10
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Wheat
   rotate: false
-  xy: 128, 10
+  xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Cattle
   rotate: false
-  xy: 0, 138
+  xy: 0, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Fish
   rotate: false
-  xy: 128, 138
+  xy: 128, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Crab
   rotate: false
-  xy: 256, 10
+  xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Pearls
+TileSets/Nameless/Tiles/Stone
   rotate: false
-  xy: 256, 138
+  xy: 384, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Horses
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Marble
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Incense
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Wine
+  rotate: false
+  xy: 768, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Cotton
+  rotate: false
+  xy: 768, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Aluminum
+  rotate: false
+  xy: 896, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Truffles
+  rotate: false
+  xy: 896, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Bananas
+  rotate: false
+  xy: 1024, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Dyes
+  rotate: false
+  xy: 1024, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Ivory
+  rotate: false
+  xy: 1152, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Gold Ore
+  rotate: false
+  xy: 1152, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Copper
+  rotate: false
+  xy: 1280, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Silver
+  rotate: false
+  xy: 1280, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Iron
+  rotate: false
+  xy: 1408, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Uranium
+  rotate: false
+  xy: 1408, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Gems
+  rotate: false
+  xy: 1536, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Coal
+  rotate: false
+  xy: 1536, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Oil
+  rotate: false
+  xy: 1664, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Citrus
+  rotate: false
+  xy: 1664, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

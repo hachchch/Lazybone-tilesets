@@ -5,14 +5,13 @@
         "ruleVariants": {
                 // Forests and Jungles
                 "Tundra+Forest": ["Tundra","TF"],
-                "Tundra+Hill+Forest": ["Tundra","Hill","TF"],
-                "Grassland+Hill+Forest": ["Grassland","Hill","Forest"],
-                "Plains+Hill+Forest": ["Plains","Hill","Forest"],
-                "Grassland+Hill+Jungle": ["Grassland","Hill","Jungle"],
-                "Plains+Hill+Jungle": ["Plains","Hill","Jungle"],
-                "Desert+Hill+Flood plains": ["Desert","Flood plains","Hill"],
-                "Desert+Flood plains+Hill": ["Desert","Flood plains","Hill"],
-                "Grassland+Hill+Forest+Cattle": ["Grassland","Hill","RF","Cattle"],
+                "Tundra+Hill+Forest": ["Tundra","Tundra+Hill","TF"],
+                "Grassland+Hill+Forest": ["Grassland","Grassland+Hill","Forest"],
+                "Plains+Hill+Forest": ["Plains","Plains+Hill","Forest"],
+                "Grassland+Hill+Jungle": ["Grassland","Grassland+Hill","Jungle"],
+                "Plains+Hill+Jungle": ["Plains","Plains+Hill","Jungle"],
+                "Grassland+Hill+Forest+Cattle": ["Grassland","Grassland+Hill","RF","Cattle"],
+                "Grassland+Hill+Jungle+Cattle": ["Grassland","Grassland+Hill","RJ","Cattle"],
                 "Grassland+Forest+Cattle": ["Grassland","RF","Cattle"],
                 "Grassland+Jungle+Cattle": ["Grassland","RJ","Cattle"],
         }

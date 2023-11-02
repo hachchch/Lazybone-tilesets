@@ -1,5 +1,6 @@
 [
 	{
+		"style": "Babylon",
                 "name": "Babylon",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": ["Babylonian"],
@@ -31,6 +32,7 @@
         "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
 	},
     {
+	    "style": "Greece",
 		"name": "Greece",
 		"leaderName": "Alexander",
 		"adjective": ["Greek"],
@@ -63,6 +65,7 @@
         "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
     },
 	{
+		"style": "China",
 		"name": "China",
 		"leaderName": "Wu Zetian",
 		"adjective": ["Chinese"],
@@ -93,6 +96,7 @@
 
     },
 	{
+		"style": "Egypt",
 		"name": "Egypt",
 		"leaderName": "Ramesses II",
 		"adjective": ["Egyptian"],
@@ -125,6 +129,7 @@
         "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
     },
 	{
+		"style": "England",
 		"name": "England",
 		"leaderName": "Elizabeth",
 		"adjective": ["English"],
@@ -153,6 +158,7 @@
         "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
     },
 	{
+		"style": "France",
 		"name": "France",
 		"leaderName": "Napoleon",
 		"adjective": ["French"],
@@ -182,6 +188,7 @@
         "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
     },
 	{
+		"style": "Russia",
 		"name": "Russia",
 		"leaderName": "Catherine",
 		"adjective": ["Russian"],
@@ -212,6 +219,7 @@
         "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
     },
 	{
+		"style": "Rome",
 		"name": "Rome",
 		"leaderName": "Augustus Caesar",
 		"adjective": ["Roman"],
@@ -241,6 +249,7 @@
         "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
     },
 	{
+		"style": "Arabia",
 		"name": "Arabia",
 		"leaderName": "Harun al-Rashid",
 		"adjective": ["Arabian"],
@@ -269,6 +278,7 @@
 
     },
 	{
+		"style": "America",
 		"name": "America",
 		"leaderName": "George Washington",
 		"adjective": ["American"],
@@ -300,6 +310,7 @@
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
 	{
+		"style": "Japan",
 		"name": "Japan",
 		"leaderName": "Oda Nobunaga",
 		"adjective": ["Japanese"],
@@ -328,6 +339,7 @@
         "spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
     },
 	{
+		"style": "India",
 		"name": "India",
 		"leaderName": "Gandhi",
 		"adjective": ["Indian"],
@@ -357,6 +369,7 @@
         "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
     },
 	{
+		"style": "Germany",
 		"name": "Germany",
 		"leaderName": "Otto von Bismarck",
 		"adjective": ["German"],
@@ -388,6 +401,7 @@
     },
 
 	{
+		"style": "Ottomans",
 		"name": "The Ottomans",
 		"leaderName": "Suleiman I",
 		"adjective": ["Ottoman"],
@@ -419,6 +433,7 @@
         "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
     },
 	{
+		"style": "Korea",
 		"name": "Korea",
 		"leaderName": "Sejong",
 		"adjective": ["Korean"],
@@ -448,6 +463,7 @@
     },
 
 	{
+		"style": "Iroquois",
 		"name": "Iroquois",
 		"leaderName": "Hiawatha",
 		"adjective": ["Iroquoise"],
@@ -478,6 +494,7 @@
         "spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
     },
 	{
+		"style": "Persia",
 		"name": "Persia",
 		"leaderName": "Darius I",
 		"adjective": ["Persian"],
@@ -510,6 +527,7 @@
         "spyNames": ["Azi", "Dabir", "Firuz", "Gaspar", "Shahzad", "Aga", "Marjane", "Peri", "Sartaj ", "Yasmin"]
     },
 	{
+		"style": "Polynesia",
 		"name": "Polynesia",
 		"leaderName": "Kamehameha I",
 		"adjective": ["Polynesia"],
@@ -540,6 +558,7 @@
         "spyNames": ["Tiki", "Hotu Matua", "Rongo-ma-tane", "Kupe", "Haloti", "Degei", "Babamik", "Kulu Lau", "Nangananga", "Turua"]
     },
 	{
+		"style": "Siam",
 		"name": "Siam",
 		"leaderName": "Ramkhamhaeng",
 		"adjective": ["Siamese"],
@@ -568,6 +587,7 @@
         "spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
     },
 	{
+		"style": "Spain",
 		"name": "Spain",
 		"leaderName": "Isabella",
 		"adjective": ["Spanish"],
@@ -597,6 +617,7 @@
         "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
     },
 	{
+		"style": "Songhai",
 		"name": "Songhai",
 		"leaderName": "Askia",
 		"adjective": ["Songhai"],
@@ -624,6 +645,7 @@
         "spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"]
     },
 	{
+		"style": "Mongol",
 		"name": "Mongolia",
 		"leaderName": "Genghis Khan",
 		"adjective": ["Mongolian"],
@@ -652,6 +674,7 @@
         "spyNames": ["Asashōryū", "Tömöriin", "Zevegiin", "Jigjidiin", "Enkhbat", "Mönkhbayar", "Gündegmaa", "Ssima", "Batachikhan", "Chulunny"]
     },
 	{
+		"style": "Aztecs",
 		"name": "Aztecs",
 		"leaderName": "Montezuma I",
 		"adjective": ["Aztec"],
@@ -685,6 +708,7 @@
 
     },
 	{
+		"style": "Inca",
 		"name": "Inca",
 		"leaderName": "Pachacuti",
 		"adjective": ["Incan"],
@@ -718,6 +742,7 @@
         "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Purutu", "Ozcollo"]
     },
 	{
+		"style": "Denmark",
 		"name": "Denmark",
 		"leaderName": "Harald Bluetooth",
 		"adjective": ["Danish"],
@@ -750,6 +775,7 @@
         "spyNames": ["Jørgen", "Mette", "Henrik", "Niels", "Helle", "Frederik", "Ida", "Thea", "Freja", "Morten"]
     },
 	{
+		"style": "Huns",
 		"name": "The Huns",
 		"leaderName": "Attila the Hun",
 		"adjective": ["Hunnic"],
@@ -777,6 +803,7 @@
         "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
     },
 	{
+		"style": "Netherland",
 		"name": "The Netherlands",
 		"leaderName": "William of Orange",
 		"adjective": ["Dutch"],
@@ -803,6 +830,7 @@
     },
 
 	{
+		"style": "Sweden",
 	    "name": "Sweden",
 		"leaderName": "Gustavus Adolphus",
 		"adjective": ["Swedish"],
@@ -834,6 +862,7 @@
         "spyNames": ["Leif", "Ingegard", "Sören", "Ragnhild", "Lars", "Lina", "Herr Grå", "Magnus", "Vilma", "Kusin"]
         },
         {
+		"style": "Austria",
 		"name": "Austria",
 		"leaderName": "Maria Theresa",
 		"adjective": ["Austrian"],
@@ -866,6 +895,7 @@
         "spyNames": ["Ferdinand", "Johanna", "Franz-Josef", "Astrid", "Anna", "Hubert", "Alois", "Natter", "Georg", "Arnold"]
     },
 	{
+		"style": "Carthage",
 		"name": "Carthage",
 		"leaderName": "Dido",
 		"adjective": ["Carthaginian"],
@@ -895,6 +925,7 @@
         "civilopediaText": [{"text": "Units ending their turn on [Mountain] tiles take [50] damage"}]
     },
 	{
+		"style": "Byzantium",
 		"name": "Byzantium",
 		"leaderName": "Theodora",
 		"adjective": ["Byzantine"],
@@ -923,6 +954,7 @@
         "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
     },
 	{
+		"style": "Celts",
 		"name": "Celts",
 		"leaderName": "Boudicca",
 		"adjective": ["celtic"],
@@ -956,6 +988,7 @@
         "spyNames": ["Crìsdean", "Siobhán", "Seamus", "Ffion", "Pádraig", "Deirdre", "Mr. Quinn", "Éadaoin", "Alwyn", "Col Ceathar"]
     },
 	{
+		"style": "Ethiopia",
 		"name": "Ethiopia",
 		"leaderName": "Haile Selassie",
 		"adjective": ["ethiopian"],
@@ -988,6 +1021,7 @@
         "spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Demeke", "Mulu Alem", "Abebech", "Zema", "Mihret", "Kebedech", "Alemnesh"]
     },
 	{
+		"style": "Maya",
 		"name": "The Maya",
 		"leaderName": "Pacal",
 		"adjective": ["mayan"],

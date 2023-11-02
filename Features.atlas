@@ -117,21 +117,21 @@ TileSets/Nameless/Tiles/Grassland+Hill
   index: -1
 TileSets/Nameless/Tiles/Flood plains2
   rotate: false
-  xy: 0, 138
+  xy: 0, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Desert+Hill2
   rotate: false
-  xy: 128, 138
+  xy: 128, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Marsh
   rotate: false
-  xy: 256, 138
+  xy: 256, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -145,7 +145,7 @@ TileSets/Nameless/Tiles/Marsh2
   index: -1
 TileSets/Nameless/Tiles/Snow+Hill
   rotate: false
-  xy: 384, 138
+  xy: 384, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -159,7 +159,7 @@ TileSets/Nameless/Tiles/Snow+Hill2
   index: -1
 TileSets/Nameless/Tiles/Tundra+Hill
   rotate: false
-  xy: 512, 138
+  xy: 512, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -173,7 +173,7 @@ TileSets/Nameless/Tiles/Tundra+Hill2
   index: -1
 TileSets/Nameless/Tiles/Plains+Hill
   rotate: false
-  xy: 640, 138
+  xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -187,7 +187,7 @@ TileSets/Nameless/Tiles/Plains+Hill2
   index: -1
 TileSets/Nameless/Tiles/Plains+Hill3
   rotate: false
-  xy: 768, 138
+  xy: 768, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

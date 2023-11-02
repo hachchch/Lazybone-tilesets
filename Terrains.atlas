@@ -34,9 +34,9 @@ TileSets/Nameless/Tiles/Lakes
   index: -1
 TileSets/Nameless/Tiles/Ocean
   rotate: false
-  xy: 128, 118
-  size: 128, 148
-  orig: 128, 148
+  xy: 128, 138
+  size: 128, 118
+  orig: 128, 118
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Plains

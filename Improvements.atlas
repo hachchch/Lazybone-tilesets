@@ -60,7 +60,42 @@ TileSets/Nameless/Tiles/Holy site
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-Arabia
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Ethiopia
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Persia
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Songhai
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Ottomans
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Carthage
   rotate: false
   xy: 640, 128
   size: 128, 128
@@ -74,70 +109,98 @@ TileSets/Nameless/Tiles/Academy
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-India
   rotate: false
   xy: 768, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-China
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-Japan
+  rotate: false
+  xy: 768, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Siam
+  rotate: false
+  xy: 768, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Maya
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site2-Maya
   rotate: false
   xy: 896, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site3-Maya
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-Inca
   rotate: false
   xy: 1024, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-Iroquois
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-Mongol
   rotate: false
   xy: 1152, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-Huns
+  rotate: false
+  xy: 1152, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Russia
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Holy site-Byzantium
+  rotate: false
+  xy: 1280, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Holy site-Egypt
   rotate: false
   xy: 1280, 128
   size: 128, 128

@@ -26,5 +26,6 @@
                 "Desert+Wheat+Farm": ["Ocean","Farm"],
                 "Plains+Wheat+Farm": ["Ocean","Wheat+Farm"],
                 "Desert+Wheat+Farm": ["Ocean","Wheat+Farm"],
+                "City center": ["City"],
         }
 }

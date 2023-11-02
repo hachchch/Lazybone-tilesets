@@ -150,16 +150,44 @@ TileSets/Nameless/Tiles/Snow+Hill
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains+Hill2
+TileSets/Nameless/Tiles/Snow+Hill2
   rotate: false
   xy: 512, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains+Hill3
+TileSets/Nameless/Tiles/Tundra+Hill
   rotate: false
   xy: 512, 138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Tundra+Hill2
+  rotate: false
+  xy: 640, -10
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Plains+Hill
+  rotate: false
+  xy: 640, 138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Plains+Hill2
+  rotate: false
+  xy: 768, -10
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Plains+Hill3
+  rotate: false
+  xy: 768, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

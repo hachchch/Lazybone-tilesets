@@ -32,21 +32,21 @@ TileSets/Nameless/Tiles/Lumber mill
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Trading post
+TileSets/Nameless/Tiles/Quarry
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Mine
   rotate: false
   xy: 384, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Academy
+TileSets/Nameless/Tiles/Trading post
   rotate: false
   xy: 512, 0
   size: 128, 128
@@ -67,7 +67,7 @@ TileSets/Nameless/Tiles/Holy site
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Nameless/Tiles/Academy
   rotate: false
   xy: 640, 0
   size: 128, 128
@@ -130,44 +130,58 @@ TileSets/Nameless/Tiles/Holy site
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Polder
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Oil well
+TileSets/Nameless/Tiles/Holy site
   rotate: false
   xy: 1280, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Offshore Platform
+TileSets/Nameless/Tiles/Polder
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center
+TileSets/Nameless/Tiles/Oil well
   rotate: false
   xy: 1408, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Oil
+TileSets/Nameless/Tiles/Offshore Platform
   rotate: false
   xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Citrus
+TileSets/Nameless/Tiles/City center
   rotate: false
   xy: 1536, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Farm
+  rotate: false
+  xy: 1664, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Wheat+Farm
+  rotate: false
+  xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

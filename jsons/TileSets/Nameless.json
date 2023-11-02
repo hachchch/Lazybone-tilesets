@@ -14,5 +14,8 @@
                 "Grassland+Hill+Jungle+Cattle": ["Grassland","Grassland+Hill","RJ","Cattle"],
                 "Grassland+Forest+Cattle": ["Grassland","RF","Cattle"],
                 "Grassland+Jungle+Cattle": ["Grassland","RJ","Cattle"],
+                "Grassland+Forest+Lumber mill": ["Grassland","Lumber mill"],
+                "Plains+Forest+Lumber mill": ["Plains","Lumber mill"],
+                "Tundra+Forest+Lumber mill": ["Tundra","Lumber mill"],
         }
 }

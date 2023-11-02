@@ -17,5 +17,11 @@
                 "Grassland+Forest+Lumber mill": ["Grassland","Lumber mill"],
                 "Plains+Forest+Lumber mill": ["Plains","Lumber mill"],
                 "Tundra+Forest+Lumber mill": ["Tundra","Lumber mill"],
+                "Plains+Farm": ["Ocean","Farm"],
+                "Grassland+Farm": ["Ocean","Farm"],
+                "Tundra+Farm": ["Ocean","Farm"],
+                "Desert+Wheat+Farm": ["Ocean","Farm"],
+                "Plains+Wheat+Farm": ["Ocean","Wheat+Farm"],
+                "Desert+Wheat+Farm": ["Ocean","Wheat+Farm"],
         }
 }

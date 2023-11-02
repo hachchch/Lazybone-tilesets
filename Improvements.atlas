@@ -263,28 +263,28 @@ TileSets/Nameless/Tiles/Wheat+Farm
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City-Ancient era
+TileSets/Nameless/Tiles/City center-Ancient era
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City-Classical era
+TileSets/Nameless/Tiles/City center-Classical era
   rotate: false
   xy: 1792, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City-Medieval era
+TileSets/Nameless/Tiles/City center-Medieval era
   rotate: false
   xy: 1920, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City-Industrial era
+TileSets/Nameless/Tiles/City center-Industrial era
   rotate: false
   xy: 1920, 128
   size: 128, 128

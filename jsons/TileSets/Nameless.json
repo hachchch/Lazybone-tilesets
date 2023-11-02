@@ -26,11 +26,5 @@
                 "Desert+Wheat+Farm": ["Ocean","Farm"],
                 "Plains+Wheat+Farm": ["Ocean","Wheat+Farm"],
                 "Desert+Wheat+Farm": ["Ocean","Wheat+Farm"],
-                // City center
-                "Grassland+City center": ["Grassland","City"],
-                "Plains+City center": ["Plains","City"],
-                "Tundra+City center": ["Tundra","City"],
-                "Desert+City center": ["Desert","City"],
-                "Snow+City center": ["Snow","City"], 
         }
 }

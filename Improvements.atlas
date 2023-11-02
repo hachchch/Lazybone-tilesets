@@ -18,14 +18,14 @@ TileSets/Nameless/Tiles/Fort
   orig: 128, 148
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City-China
+TileSets/Nameless/Tiles/City center-China
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City-Korea
+TileSets/Nameless/Tiles/City center-Korea
   rotate: false
   xy: 256, 0
   size: 128, 128
@@ -242,7 +242,7 @@ TileSets/Nameless/Tiles/Offshore Platform
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City-Japan
+TileSets/Nameless/Tiles/City center-Japan
   rotate: false
   xy: 1536, 128
   size: 128, 128

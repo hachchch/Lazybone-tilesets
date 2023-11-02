@@ -174,7 +174,7 @@ TileSets/Nameless/Tiles/City center
   index: -1
 TileSets/Nameless/Tiles/Farm
   rotate: false
-  xy: 1664, 118
+  xy: 1664, 128
   size: 128, 138
   orig: 128, 138
   offset: 0, 0

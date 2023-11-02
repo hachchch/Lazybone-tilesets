@@ -27,7 +27,7 @@ TileSets/Nameless/Tiles/City center
   index: -1
 TileSets/Nameless/Tiles/Lumber mill
   rotate: false
-  xy: 256, 118
+  xy: 256, 125
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

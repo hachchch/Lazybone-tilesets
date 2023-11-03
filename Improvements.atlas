@@ -270,21 +270,21 @@ TileSets/Nameless/Tiles/City center-Industrial era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Japan
+TileSets/Nameless/Tiles/City center-Japan-Renaissance era
   rotate: false
   xy: 1536, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-China
+TileSets/Nameless/Tiles/City center-China-Renaissance era
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Korea
+TileSets/Nameless/Tiles/City center-Korea-Renaissance era
   rotate: false
   xy: 256, 0
   size: 128, 128

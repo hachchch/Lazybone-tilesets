@@ -291,3 +291,66 @@ TileSets/Nameless/Tiles/City center-Korea-Renaissance era
   orig: 128, 128
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/Silk+Plantation
+  rotate: false
+  xy: 2048, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Citrus+Plantation
+  rotate: false
+  xy: 2048, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Dyes+Plantation
+  rotate: false
+  xy: 2176, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Wine+Plantation
+  rotate: false
+  xy: 2176, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Cotton+Plantation
+  rotate: false
+  xy: 2304, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Incense+Plantation
+  rotate: false
+  xy: 2304, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Sugar+Plantation
+  rotate: false
+  xy: 2432, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Manufactory
+  rotate: false
+  xy: 2432, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Manufactory-Industrial era
+  rotate: false
+  xy: 2560, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

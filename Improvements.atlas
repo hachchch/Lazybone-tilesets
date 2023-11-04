@@ -230,14 +230,14 @@ TileSets/Nameless/Tiles/Offshore Platform
   index: -1
 TileSets/Nameless/Tiles/Farm
   rotate: false
-  xy: 1664, 128
+  xy: 1664, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Wheat+Farm
   rotate: false
-  xy: 1664, -20
+  xy: 1664, -30
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
@@ -410,7 +410,7 @@ TileSets/Nameless/Tiles/City center-Byzantium-Medieval era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Netherlands-Renaissance era
+TileSets/Nameless/Tiles/City center-Netherland-Renaissance era
   rotate: false
   xy: 2944, 0
   size: 128, 128

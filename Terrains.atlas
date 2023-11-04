@@ -172,3 +172,24 @@ TileSets/Nameless/Tiles/Mountain
   orig: 128, 210
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/Coast
+  rotate: false
+  xy: 1664, -10
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Ocean
+  rotate: false
+  xy: 1792, -10
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Lakes
+  rotate: false
+  xy: 1920, -10
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1

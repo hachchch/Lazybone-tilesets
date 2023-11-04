@@ -220,3 +220,10 @@ TileSets/Nameless/Tiles/Grassland+Hill3
   orig: 128, 128
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/Ice
+  rotate: false
+  xy: 1152, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

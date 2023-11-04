@@ -354,3 +354,143 @@ TileSets/Nameless/Tiles/Manufactory-Industrial era
   orig: 128, 128
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/City center-Germany-Renaissance era
+  rotate: false
+  xy: 2688, 12
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Austria-Renaissance era
+  rotate: false
+  xy: 2688, 12
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-England-Renaissance era
+  rotate: false
+  xy: 2688, 12
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
+  rotate: false
+  xy: 2688, 12
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Sweden-Renaissance era
+  rotate: false
+  xy: 2688, 12
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Rome-Medieval era
+  rotate: false
+  xy: 2816, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Greece-Medieval era
+  rotate: false
+  xy: 2816, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Byzantium-Medieval era
+  rotate: false
+  xy: 2816, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Netherlands-Renaissance era
+  rotate: false
+  xy: 2944, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Denmark-Classical era
+  rotate: false
+  xy: 3072, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Sweden-Classical era
+  rotate: false
+  xy: 3072, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
+  rotate: false
+  xy: 3200, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Sweden-Renaissance era
+  rotate: false
+  xy: 3200, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Byzantium-Renaissance era
+  rotate: false
+  xy: 3328, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Rome-Classical era
+  rotate: false
+  xy: 3456, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Greece-Classical era
+  rotate: false
+  xy: 3456, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Byzantium-Classical era
+  rotate: false
+  xy: 3456, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Ancient ruins
+  rotate: false
+  xy: 3584, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Fishing Boats
+  rotate: false
+  xy: 3712, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Fishing Boats-Industrial era
+  rotate: false
+  xy: 3840, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

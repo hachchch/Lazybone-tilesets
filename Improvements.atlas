@@ -230,14 +230,14 @@ TileSets/Nameless/Tiles/Offshore Platform
   index: -1
 TileSets/Nameless/Tiles/Farm
   rotate: false
-  xy: 1664, 122
+  xy: 1664, 121
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Wheat+Farm
   rotate: false
-  xy: 1664, -6
+  xy: 1664, -7
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

@@ -192,3 +192,31 @@ TileSets/Nameless/Tiles/Plains+Hill3
   orig: 128, 128
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/Atoll
+  rotate: false
+  xy: 896, -10
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Oasis
+  rotate: false
+  xy: 896, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Grassland+Hill2
+  rotate: false
+  xy: 1024, -10
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Grassland+Hill3
+  rotate: false
+  xy: 1024, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

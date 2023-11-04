@@ -179,3 +179,38 @@ TileSets/Nameless/Tiles/Citrus
   orig: 128, 128
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/Deer
+  rotate: false
+  xy: 1664, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Sugar
+  rotate: false
+  xy: 1664, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Furs
+  rotate: false
+  xy: 1792, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Silk
+  rotate: false
+  xy: 1792, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Pearls
+  rotate: false
+  xy: 1920, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

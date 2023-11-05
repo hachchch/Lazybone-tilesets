@@ -571,7 +571,7 @@ TileSets/Nameless/Tiles/Sheep+Pasture
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Celt-Classical era
+TileSets/Nameless/Tiles/City center-Celts-Classical era
   rotate: false
   xy: 4992, 0
   size: 128, 128

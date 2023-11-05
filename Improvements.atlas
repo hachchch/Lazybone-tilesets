@@ -557,7 +557,7 @@ TileSets/Nameless/Tiles/Cattle+Pasture
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Horse+Pasture
+TileSets/Nameless/Tiles/Horses+Pasture
   rotate: false
   xy: 4736, 0
   size: 128, 128

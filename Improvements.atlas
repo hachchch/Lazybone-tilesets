@@ -501,37 +501,86 @@ TileSets/Nameless/Tiles/Landmark-Industrial era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Germany-Renaissance era
+TileSets/Nameless/Tiles/City center-Germany-Renaissance era
   rotate: false
   xy: 4096, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/England-Renaissance era
+TileSets/Nameless/Tiles/City center-England-Renaissance era
   rotate: false
   xy: 4096, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Austria-Renaissance era
+TileSets/Nameless/Tiles/City center-Austria-Renaissance era
   rotate: false
   xy: 4096, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Denmark-Renaissance era
+TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
   rotate: false
   xy: 4224, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Netherland-Renaissance era
+TileSets/Nameless/Tiles/City center-Netherland-Renaissance era
   rotate: false
-  xy: 4096, 0
+  xy: 4224, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Pasture-Pillaged
+  rotate: false
+  xy: 4352, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-France-Renaissance era
+  rotate: false
+  xy: 4480, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Cattle+Pasture
+  rotate: false
+  xy: 4608, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Horse+Pasture
+  rotate: false
+  xy: 4736, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Sheep+Pasture
+  rotate: false
+  xy: 4864, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Celt-Classical era
+  rotate: false
+  xy: 4992, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Renaissance era
+  rotate: false
+  xy: 5120, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

@@ -494,3 +494,45 @@ TileSets/Nameless/Tiles/Fishing Boats-Industrial era
   orig: 128, 128
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/Landmark-Industrial era
+  rotate: false
+  xy: 3968, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Germany-Renaissance era
+  rotate: false
+  xy: 4096, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/England-Renaissance era
+  rotate: false
+  xy: 4096, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Austria-Renaissance era
+  rotate: false
+  xy: 4096, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Denmark-Renaissance era
+  rotate: false
+  xy: 4224, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Netherland-Renaissance era
+  rotate: false
+  xy: 4096, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

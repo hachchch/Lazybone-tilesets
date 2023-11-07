@@ -701,7 +701,7 @@ TileSets/Nameless/Tiles/Farm-Industrial era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Terrace farm-Industrial era
+TileSets/Nameless/Tiles/Terrace farm
   rotate: false
   xy: 1792, 0
   size: 128, 128

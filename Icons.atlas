@@ -13,105 +13,105 @@ NationIcons/Arabia
   index: -1
 NationIcons/Egypt
   rotate: false
-  xy: 100, 0
+  xy: 0, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Inca
   rotate: false
-  xy: 200, 0
+  xy: 0, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/India
   rotate: false
-  xy: 300, 0
+  xy: 0, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/India
   rotate: false
-  xy: 400, 0
+  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Macedonia
   rotate: false
-  xy: 500, 0
+  xy: 0, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Persia
   rotate: false
-  xy: 600, 0
+  xy: 0, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Phoenicia
   rotate: false
-  xy: 700, 0
+  xy: 0, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Rome
   rotate: false
-  xy: 800, 0
+  xy: 0, 800
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Spain
   rotate: false
-  xy: 900, 0
+  xy: 0, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Aztecs
   rotate: false
-  xy: 1000, 0
+  xy: 0, 1000
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Maya
   rotate: false
-  xy: 1100, 0
+  xy: 0, 1100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Netherlands
   rotate: false
-  xy: 1200, 0
+  xy: 0, 1200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Ottomans
   rotate: false
-  xy: 1300, 0
+  xy: 0, 1300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/France
   rotate: false
-  xy: 1400, 0
+  xy: 0, 1400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/England
   rotate: false
-  xy: 1500, 0
+  xy: 0, 1500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

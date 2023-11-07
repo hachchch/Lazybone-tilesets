@@ -291,296 +291,516 @@ TileSets/Nameless/Tiles/City center-Korea-Renaissance era
   orig: 128, 128
   offset: 0, 0
   index: -1
+
+Improvements2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 TileSets/Nameless/Tiles/Silk+Plantation
   rotate: false
-  xy: 2048, 0
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Citrus+Plantation
   rotate: false
-  xy: 2048, 128
+  xy: 0, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Dyes+Plantation
   rotate: false
-  xy: 2176, 0
+  xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Wine+Plantation
   rotate: false
-  xy: 2176, 128
+  xy: 128, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Cotton+Plantation
   rotate: false
-  xy: 2304, 0
+  xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Incense+Plantation
   rotate: false
-  xy: 2304, 128
+  xy: 256, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Sugar+Plantation
   rotate: false
-  xy: 2432, 0
+  xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Manufactory
   rotate: false
-  xy: 2432, 128
+  xy: 384, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Manufactory-Industrial era
   rotate: false
-  xy: 2560, 0
+  xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Germany-Renaissance era
   rotate: false
-  xy: 2688, 12
+  xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Austria-Renaissance era
   rotate: false
-  xy: 2688, 12
+  xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-England-Renaissance era
   rotate: false
-  xy: 2688, 12
+  xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
   rotate: false
-  xy: 2688, 12
+  xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Sweden-Renaissance era
   rotate: false
-  xy: 2688, 12
+  xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Rome-Medieval era
   rotate: false
-  xy: 2816, 0
+  xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Greece-Medieval era
   rotate: false
-  xy: 2816, 0
+  xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Byzantium-Medieval era
   rotate: false
-  xy: 2816, 0
+  xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Netherland-Renaissance era
   rotate: false
-  xy: 2944, 0
+  xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Denmark-Classical era
   rotate: false
-  xy: 3072, 0
+  xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Sweden-Classical era
   rotate: false
-  xy: 3072, 0
+  xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
   rotate: false
-  xy: 3200, 0
+  xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Sweden-Renaissance era
   rotate: false
-  xy: 3200, 0
+  xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Byzantium-Renaissance era
   rotate: false
-  xy: 3328, 0
+  xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Rome-Classical era
   rotate: false
-  xy: 3456, 0
+  xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Greece-Classical era
   rotate: false
-  xy: 3456, 0
+  xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Byzantium-Classical era
   rotate: false
-  xy: 3456, 0
+  xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Ancient ruins
   rotate: false
-  xy: 3584, 0
+  xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Fishing Boats
   rotate: false
-  xy: 3712, 0
+  xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Fishing Boats-Industrial era
   rotate: false
-  xy: 3840, 0
+  xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Landmark-Industrial era
+TileSets/Nameless/Tiles/Landmark
   rotate: false
-  xy: 3968, 0
+  xy: 1920, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
+
+Improvements3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 TileSets/Nameless/Tiles/City center-Germany-Renaissance era
   rotate: false
-  xy: 4096, 0
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-England-Renaissance era
   rotate: false
-  xy: 4096, 0
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Austria-Renaissance era
   rotate: false
-  xy: 4096, 0
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
   rotate: false
-  xy: 4224, 0
+  xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Netherlands-Renaissance era
   rotate: false
-  xy: 4224, 0
+  xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Pasture-Pillaged
   rotate: false
-  xy: 4352, 0
+  xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-France-Renaissance era
   rotate: false
-  xy: 4480, 0
+  xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Cattle+Pasture
   rotate: false
-  xy: 4608, 0
+  xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Horses+Pasture
   rotate: false
-  xy: 4736, 0
+  xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/Sheep+Pasture
   rotate: false
-  xy: 4864, 0
+  xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Celts-Classical era
   rotate: false
-  xy: 4992, 0
+  xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Nameless/Tiles/City center-Renaissance era
   rotate: false
-  xy: 5120, 0
+  xy: 1024, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+Improvements4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/Nameless/Tiles/City center-Russia-Renaissance era
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City centerS-Russia-Renaissance era
+  rotate: false
+  xy: 128, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Russia-Classical era
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City centerS-Russia-Classical era
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Russia-Medieval era
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City centerS-Russia-Medieval era
+  rotate: false
+  xy: 640, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Farm-Medieval era
+  rotate: false
+  xy: 768, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Farm2-Medieval era
+  rotate: false
+  xy: 896, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Farm3-Medieval era
+  rotate: false
+  xy: 1024, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Wheat+Farm-Medieval era
+  rotate: false
+  xy: 1152, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Wheat+Farm2-Medieval era
+  rotate: false
+  xy: 1280, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Wheat+Farm3-Medieval era
+  rotate: false
+  xy: 1408, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Wheat+Farm-Industrial era
+  rotate: false
+  xy: 1536, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Farm-Industrial era
+  rotate: false
+  xy: 1664, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Terrace farm-Industrial era
+  rotate: false
+  xy: 1792, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Persia-Renaissance era
+  rotate: false
+  xy: 1920, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+Improvements5.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/Nameless/Tiles/City center-Persia-Medieval era
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Stone+Quarry-Medieval era
+  rotate: false
+  xy: 128, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Marble+Quarry-Medieval era
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Mine-Rome
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Mine-Spain
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/Mine-Industrial era
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Carthage-Medieval
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Carthage-Renaissance
+  rotate: false
+  xy: 640, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Egypt-Medieval
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Egypt-Renaissance
+  rotate: false
+  xy: 640, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Arabia-Medieval
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Arabia-Renaissance
+  rotate: false
+  xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

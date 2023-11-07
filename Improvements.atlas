@@ -680,14 +680,14 @@ TileSets/Nameless/Tiles/Farm-Medieval era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm2-Medieval era
+TileSets/Nameless/Tiles/Farm-Medieval era2
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm3-Medieval era
+TileSets/Nameless/Tiles/Farm-Medieval era3
   rotate: false
   xy: 1024, 0
   size: 128, 128

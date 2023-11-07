@@ -805,3 +805,10 @@ TileSets/Nameless/Tiles/City center-Arabia-Renaissance
   orig: 128, 128
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/Customs house
+  rotate: false
+  xy: 768, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

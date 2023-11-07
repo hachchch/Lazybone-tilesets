@@ -701,14 +701,14 @@ TileSets/Nameless/Tiles/Wheat+Farm-Medieval era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm2-Medieval era
+TileSets/Nameless/Tiles/Wheat+Farm-Medieval era2
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm3-Medieval era
+TileSets/Nameless/Tiles/Wheat+Farm-Medieval era3
   rotate: false
   xy: 1408, 0
   size: 128, 128
@@ -847,7 +847,7 @@ TileSets/Nameless/Tiles/City center-Babylon-Classical era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Ottoman-Classical era
+TileSets/Nameless/Tiles/City center-Ottomans-Classical era
   rotate: false
   xy: 1024, 0
   size: 128, 128

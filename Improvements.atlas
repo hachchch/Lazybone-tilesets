@@ -896,3 +896,59 @@ TileSets/Nameless/Tiles/City center-Vietnum-Classical era
   orig: 128, 128
   offset: 0, 0
   index: -1
+TileSets/Nameless/Tiles/City center-Korea-Classical era
+  rotate: false
+  xy: 1280, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-China-Classical era
+  rotate: false
+  xy: 1408, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Korea-Medieval era
+  rotate: false
+  xy: 1536, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Mongol-Ancient era
+  rotate: false
+  xy: 1664, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Huns-Classical era
+  rotate: false
+  xy: 1664, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Mongol-Classical era
+  rotate: false
+  xy: 1792, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-Mongol-Classical era
+  rotate: false
+  xy: 1792, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Nameless/Tiles/City center-China-Medieval era
+  rotate: false
+  xy: 1920, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -401,7 +401,7 @@
     },
 
 	{
-		"style": "Ottomans",
+		"style": "The Ottomans",
 		"name": "The Ottomans",
 		"leaderName": "Suleiman I",
 		"adjective": ["Ottoman"],
@@ -645,7 +645,7 @@
         "spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"]
     },
 	{
-		"style": "Mongol",
+		"style": "Mongolia",
 		"name": "Mongolia",
 		"leaderName": "Genghis Khan",
 		"adjective": ["Mongolian"],
@@ -775,7 +775,7 @@
         "spyNames": ["Jørgen", "Mette", "Henrik", "Niels", "Helle", "Frederik", "Ida", "Thea", "Freja", "Morten"]
     },
 	{
-		"style": "Huns",
+		"style": "The Huns",
 		"name": "The Huns",
 		"leaderName": "Attila the Hun",
 		"adjective": ["Hunnic"],
@@ -803,7 +803,7 @@
         "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
     },
 	{
-		"style": "Netherlands",
+		"style": "The Netherlands",
 		"name": "The Netherlands",
 		"leaderName": "William of Orange",
 		"adjective": ["Dutch"],
@@ -1021,7 +1021,7 @@
         "spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Demeke", "Mulu Alem", "Abebech", "Zema", "Mihret", "Kebedech", "Alemnesh"]
     },
 	{
-		"style": "Maya",
+		"style": "The Maya",
 		"name": "The Maya",
 		"leaderName": "Pacal",
 		"adjective": ["mayan"],

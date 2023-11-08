@@ -917,7 +917,7 @@ TileSets/Nameless/Tiles/City center-Korea-Medieval era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Mongol-Ancient era
+TileSets/Nameless/Tiles/City center-Mongol
   rotate: false
   xy: 1664, 0
   size: 128, 128

@@ -4,210 +4,210 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/Whales
+TileSets/Lazybone/Tiles/Whales
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat
+TileSets/Lazybone/Tiles/Wheat
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Cattle
+TileSets/Lazybone/Tiles/Cattle
   rotate: false
   xy: 0, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Fish
+TileSets/Lazybone/Tiles/Fish
   rotate: false
   xy: 128, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Crab
+TileSets/Lazybone/Tiles/Crab
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Stone
+TileSets/Lazybone/Tiles/Stone
   rotate: false
   xy: 384, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Horses
+TileSets/Lazybone/Tiles/Horses
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Marble
+TileSets/Lazybone/Tiles/Marble
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Incense
+TileSets/Lazybone/Tiles/Incense
   rotate: false
   xy: 512, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wine
+TileSets/Lazybone/Tiles/Wine
   rotate: false
   xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Cotton
+TileSets/Lazybone/Tiles/Cotton
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Aluminum
+TileSets/Lazybone/Tiles/Aluminum
   rotate: false
   xy: 768, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Truffles
+TileSets/Lazybone/Tiles/Truffles
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Bananas
+TileSets/Lazybone/Tiles/Bananas
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Dyes
+TileSets/Lazybone/Tiles/Dyes
   rotate: false
   xy: 896, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Ivory
+TileSets/Lazybone/Tiles/Ivory
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Gold Ore
+TileSets/Lazybone/Tiles/Gold Ore
   rotate: false
   xy: 1024, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Copper
+TileSets/Lazybone/Tiles/Copper
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Silver
+TileSets/Lazybone/Tiles/Silver
   rotate: false
   xy: 1152, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Iron
+TileSets/Lazybone/Tiles/Iron
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Uranium
+TileSets/Lazybone/Tiles/Uranium
   rotate: false
   xy: 1280, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Gems
+TileSets/Lazybone/Tiles/Gems
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Coal
+TileSets/Lazybone/Tiles/Coal
   rotate: false
   xy: 1408, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Oil
+TileSets/Lazybone/Tiles/Oil
   rotate: false
   xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Citrus
+TileSets/Lazybone/Tiles/Citrus
   rotate: false
   xy: 1536, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Deer
+TileSets/Lazybone/Tiles/Deer
   rotate: false
   xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Sugar
+TileSets/Lazybone/Tiles/Sugar
   rotate: false
   xy: 1664, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Furs
+TileSets/Lazybone/Tiles/Furs
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Silk
+TileSets/Lazybone/Tiles/Silk
   rotate: false
   xy: 1792, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Pearls
+TileSets/Lazybone/Tiles/Pearls
   rotate: false
   xy: 1920, 0
   size: 128, 128
@@ -220,56 +220,56 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/Wheat2
+TileSets/Lazybone/Tiles/Wheat2
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Salt
+TileSets/Lazybone/Tiles/Salt
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Sheep
+TileSets/Lazybone/Tiles/Sheep
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Spices
+TileSets/Lazybone/Tiles/Spices
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Whales
+TileSets/Lazybone/Tiles/Whales
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Crab
+TileSets/Lazybone/Tiles/Crab
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Fish
+TileSets/Lazybone/Tiles/Fish
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Pearls
+TileSets/Lazybone/Tiles/Pearls
   rotate: false
   xy: 896, 0
   size: 128, 128

@@ -4,315 +4,315 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/Citadel
+TileSets/Lazybone/Tiles/Citadel
   rotate: false
   xy: 0, 0
   size: 128, 148
   orig: 128, 148
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Fort
+TileSets/Lazybone/Tiles/Fort
   rotate: false
   xy: 128, -27
   size: 128, 148
   orig: 128, 148
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Lumber mill
+TileSets/Lazybone/Tiles/Lumber mill
   rotate: false
   xy: 256, 125
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Quarry
+TileSets/Lazybone/Tiles/Quarry
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Mine
+TileSets/Lazybone/Tiles/Mine
   rotate: false
   xy: 384, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Trading post
+TileSets/Lazybone/Tiles/Trading post
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site
+TileSets/Lazybone/Tiles/Holy site
   rotate: false
   xy: 512, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Arabia
+TileSets/Lazybone/Tiles/Holy site-Arabia
   rotate: false
   xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Ethiopia
+TileSets/Lazybone/Tiles/Holy site-Ethiopia
   rotate: false
   xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Persia
+TileSets/Lazybone/Tiles/Holy site-Persia
   rotate: false
   xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Songhai
+TileSets/Lazybone/Tiles/Holy site-Songhai
   rotate: false
   xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-The Ottomans
+TileSets/Lazybone/Tiles/Holy site-The Ottomans
   rotate: false
   xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Carthage
+TileSets/Lazybone/Tiles/Holy site-Carthage
   rotate: false
   xy: 640, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Academy
+TileSets/Lazybone/Tiles/Academy
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-India
+TileSets/Lazybone/Tiles/Holy site-India
   rotate: false
   xy: 768, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-China
+TileSets/Lazybone/Tiles/Holy site-China
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Korea
+TileSets/Lazybone/Tiles/Holy site-Korea
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Japan
+TileSets/Lazybone/Tiles/Holy site-Japan
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Siam
+TileSets/Lazybone/Tiles/Holy site-Siam
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-The Maya
+TileSets/Lazybone/Tiles/Holy site-The Maya
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site2-The Maya
+TileSets/Lazybone/Tiles/Holy site2-The Maya
   rotate: false
   xy: 896, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site3-The Maya
+TileSets/Lazybone/Tiles/Holy site3-The Maya
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Inca
+TileSets/Lazybone/Tiles/Holy site-Inca
   rotate: false
   xy: 1024, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Iroquois
+TileSets/Lazybone/Tiles/Holy site-Iroquois
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Mongolia
+TileSets/Lazybone/Tiles/Holy site-Mongolia
   rotate: false
   xy: 1152, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-The Huns
+TileSets/Lazybone/Tiles/Holy site-The Huns
   rotate: false
   xy: 1152, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Russia
+TileSets/Lazybone/Tiles/Holy site-Russia
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Byzantium
+TileSets/Lazybone/Tiles/Holy site-Byzantium
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Egypt
+TileSets/Lazybone/Tiles/Holy site-Egypt
   rotate: false
   xy: 1280, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Polder
+TileSets/Lazybone/Tiles/Polder
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Oil well
+TileSets/Lazybone/Tiles/Oil well
   rotate: false
   xy: 1408, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Offshore Platform
+TileSets/Lazybone/Tiles/Offshore Platform
   rotate: false
   xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm
+TileSets/Lazybone/Tiles/Farm
   rotate: false
   xy: 1664, 119
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm
+TileSets/Lazybone/Tiles/Wheat+Farm
   rotate: false
   xy: 1664, -9
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm2
+TileSets/Lazybone/Tiles/Farm2
   rotate: false
   xy: 1664, 119
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm2
+TileSets/Lazybone/Tiles/Wheat+Farm2
   rotate: false
   xy: 1664, -9
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm3
+TileSets/Lazybone/Tiles/Farm3
   rotate: false
   xy: 1664, 119
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm3
+TileSets/Lazybone/Tiles/Wheat+Farm3
   rotate: false
   xy: 1664, -9
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center
+TileSets/Lazybone/Tiles/City center
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Classical era
+TileSets/Lazybone/Tiles/City center-Classical era
   rotate: false
   xy: 1792, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Medieval era
+TileSets/Lazybone/Tiles/City center-Medieval era
   rotate: false
   xy: 1920, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Industrial era
+TileSets/Lazybone/Tiles/City center-Industrial era
   rotate: false
   xy: 1920, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Japan-Renaissance era
+TileSets/Lazybone/Tiles/City center-Japan-Renaissance era
   rotate: false
   xy: 1536, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-China-Renaissance era
+TileSets/Lazybone/Tiles/City center-China-Renaissance era
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Korea-Renaissance era
+TileSets/Lazybone/Tiles/City center-Korea-Renaissance era
   rotate: false
   xy: 256, 0
   size: 128, 128
@@ -325,210 +325,203 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/Silk+Plantation
+TileSets/Lazybone/Tiles/Silk+Plantation
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Citrus+Plantation
+TileSets/Lazybone/Tiles/Citrus+Plantation
   rotate: false
   xy: 0, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Dyes+Plantation
+TileSets/Lazybone/Tiles/Dyes+Plantation
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wine+Plantation
+TileSets/Lazybone/Tiles/Wine+Plantation
   rotate: false
   xy: 128, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Cotton+Plantation
+TileSets/Lazybone/Tiles/Cotton+Plantation
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Incense+Plantation
+TileSets/Lazybone/Tiles/Incense+Plantation
   rotate: false
   xy: 256, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Sugar+Plantation
+TileSets/Lazybone/Tiles/Sugar+Plantation
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Manufactory
+TileSets/Lazybone/Tiles/Manufactory
   rotate: false
   xy: 384, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Manufactory-Industrial era
+TileSets/Lazybone/Tiles/Manufactory-Industrial era
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Germany-Renaissance era
+TileSets/Lazybone/Tiles/City center-Germany-Renaissance era
   rotate: false
   xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Austria-Renaissance era
+TileSets/Lazybone/Tiles/City center-Austria-Renaissance era
   rotate: false
   xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-England-Renaissance era
+TileSets/Lazybone/Tiles/City center-England-Renaissance era
   rotate: false
   xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
+TileSets/Lazybone/Tiles/City center-Denmark-Renaissance era
   rotate: false
   xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Sweden-Renaissance era
+TileSets/Lazybone/Tiles/City center-Sweden-Renaissance era
   rotate: false
   xy: 640, 12
   size: 128, 134
   orig: 128, 134
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Rome-Medieval era
+TileSets/Lazybone/Tiles/City center-Rome-Medieval era
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Greece-Medieval era
+TileSets/Lazybone/Tiles/City center-Greece-Medieval era
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Byzantium-Medieval era
+TileSets/Lazybone/Tiles/City center-Byzantium-Medieval era
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-The Netherlands-Renaissance era
-  rotate: false
-  xy: 896, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-TileSets/Nameless/Tiles/City center-Denmark-Classical era
+TileSets/Lazybone/Tiles/City center-Denmark-Classical era
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Sweden-Classical era
+TileSets/Lazybone/Tiles/City center-Sweden-Classical era
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
+TileSets/Lazybone/Tiles/City center-Denmark-Renaissance era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Sweden-Renaissance era
+TileSets/Lazybone/Tiles/City center-Sweden-Renaissance era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Byzantium-Renaissance era
+TileSets/Lazybone/Tiles/City center-Byzantium-Renaissance era
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Rome-Classical era
+TileSets/Lazybone/Tiles/City center-Rome-Classical era
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Greece-Classical era
+TileSets/Lazybone/Tiles/City center-Greece-Classical era
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Byzantium-Classical era
+TileSets/Lazybone/Tiles/City center-Byzantium-Classical era
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Ancient ruins
+TileSets/Lazybone/Tiles/Ancient ruins
   rotate: false
   xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Fishing Boats
+TileSets/Lazybone/Tiles/Fishing Boats
   rotate: false
   xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Fishing Boats-Industrial era
+TileSets/Lazybone/Tiles/Fishing Boats-Industrial era
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Landmark
+TileSets/Lazybone/Tiles/Landmark
   rotate: false
   xy: 1920, 0
   size: 128, 128
@@ -541,84 +534,84 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/City center-Germany-Renaissance era
+TileSets/Lazybone/Tiles/City center-Germany-Renaissance era
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-England-Renaissance era
+TileSets/Lazybone/Tiles/City center-England-Renaissance era
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Austria-Renaissance era
+TileSets/Lazybone/Tiles/City center-Austria-Renaissance era
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
+TileSets/Lazybone/Tiles/City center-Denmark-Renaissance era
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-The Netherlands-Renaissance era2
+TileSets/Lazybone/Tiles/City center-The Netherlands-Renaissance era
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Pasture-Pillaged
+TileSets/Lazybone/Tiles/Pasture-Pillaged
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-France-Renaissance era
+TileSets/Lazybone/Tiles/City center-France-Renaissance era
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Cattle+Pasture
+TileSets/Lazybone/Tiles/Cattle+Pasture
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Horses+Pasture
+TileSets/Lazybone/Tiles/Horses+Pasture
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Sheep+Pasture
+TileSets/Lazybone/Tiles/Sheep+Pasture
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Celts-Classical era
+TileSets/Lazybone/Tiles/City center-Celts-Classical era
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Renaissance era
+TileSets/Lazybone/Tiles/City center-Renaissance era
   rotate: false
   xy: 1024, 0
   size: 128, 128
@@ -631,112 +624,112 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/City center-Russia-Renaissance era
+TileSets/Lazybone/Tiles/City center-Russia-Renaissance era
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City centerS-Russia-Renaissance era
+TileSets/Lazybone/Tiles/City centerS-Russia-Renaissance era
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Russia-Classical era
+TileSets/Lazybone/Tiles/City center-Russia-Classical era
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City centerS-Russia-Classical era
+TileSets/Lazybone/Tiles/City centerS-Russia-Classical era
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Russia-Medieval era
+TileSets/Lazybone/Tiles/City center-Russia-Medieval era
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City centerS-Russia-Medieval era
+TileSets/Lazybone/Tiles/City centerS-Russia-Medieval era
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm-Medieval era
+TileSets/Lazybone/Tiles/Farm-Medieval era
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm-Medieval era2
+TileSets/Lazybone/Tiles/Farm-Medieval era2
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm-Medieval era3
+TileSets/Lazybone/Tiles/Farm-Medieval era3
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm-Medieval era
+TileSets/Lazybone/Tiles/Wheat+Farm-Medieval era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm-Medieval era2
+TileSets/Lazybone/Tiles/Wheat+Farm-Medieval era2
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm-Medieval era3
+TileSets/Lazybone/Tiles/Wheat+Farm-Medieval era3
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Wheat+Farm-Industrial era
+TileSets/Lazybone/Tiles/Wheat+Farm-Industrial era
   rotate: false
   xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Farm-Industrial era
+TileSets/Lazybone/Tiles/Farm-Industrial era
   rotate: false
   xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Terrace farm
+TileSets/Lazybone/Tiles/Terrace farm
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Persia-Renaissance era
+TileSets/Lazybone/Tiles/City center-Persia-Renaissance era
   rotate: false
   xy: 1920, 0
   size: 128, 128
@@ -749,203 +742,203 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/City center-Persia-Medieval era
+TileSets/Lazybone/Tiles/City center-Persia-Medieval era
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Stone+Quarry-Medieval era
+TileSets/Lazybone/Tiles/Stone+Quarry-Medieval era
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Marble+Quarry-Medieval era
+TileSets/Lazybone/Tiles/Marble+Quarry-Medieval era
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Mine-Rome
+TileSets/Lazybone/Tiles/Mine-Rome
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Mine-Spain
+TileSets/Lazybone/Tiles/Mine-Spain
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Mine-Industrial era
+TileSets/Lazybone/Tiles/Mine-Industrial era
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Carthage-Medieval
+TileSets/Lazybone/Tiles/City center-Carthage-Medieval
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Carthage-Renaissance
+TileSets/Lazybone/Tiles/City center-Carthage-Renaissance
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Egypt-Medieval
+TileSets/Lazybone/Tiles/City center-Egypt-Medieval
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Egypt-Renaissance
+TileSets/Lazybone/Tiles/City center-Egypt-Renaissance
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Arabia-Medieval
+TileSets/Lazybone/Tiles/City center-Arabia-Medieval
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Arabia-Renaissance
+TileSets/Lazybone/Tiles/City center-Arabia-Renaissance
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Customs house
+TileSets/Lazybone/Tiles/Customs house
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Babylon-Classical era
+TileSets/Lazybone/Tiles/City center-Babylon-Classical era
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-The Ottomans-Classical era
+TileSets/Lazybone/Tiles/City center-The Ottomans-Classical era
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Japan-Classical era
+TileSets/Lazybone/Tiles/City center-Japan-Classical era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-China-Classical era
+TileSets/Lazybone/Tiles/City center-China-Classical era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Siam-Classical era
+TileSets/Lazybone/Tiles/City center-Siam-Classical era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Korea-Classical era
+TileSets/Lazybone/Tiles/City center-Korea-Classical era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Indonesia-Classical era
+TileSets/Lazybone/Tiles/City center-Indonesia-Classical era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Vietnum-Classical era
+TileSets/Lazybone/Tiles/City center-Vietnum-Classical era
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Korea-Classical era
+TileSets/Lazybone/Tiles/City center-Korea-Classical era
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-China-Classical era
+TileSets/Lazybone/Tiles/City center-China-Classical era
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Korea-Medieval era
+TileSets/Lazybone/Tiles/City center-Korea-Medieval era
   rotate: false
   xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Mongolia
+TileSets/Lazybone/Tiles/City center-Mongolia
   rotate: false
   xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-The Huns-Classical era
+TileSets/Lazybone/Tiles/City center-The Huns-Classical era
   rotate: false
   xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Mongolia-Classical era
+TileSets/Lazybone/Tiles/City center-Mongolia-Classical era
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Mongolia-Classical era
+TileSets/Lazybone/Tiles/City center-Mongolia-Classical era
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-China-Medieval era
+TileSets/Lazybone/Tiles/City center-China-Medieval era
   rotate: false
   xy: 1920, 0
   size: 128, 128

@@ -4,189 +4,189 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/Coast
+TileSets/Lazybone/Tiles/Coast
   rotate: false
   xy: 0, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Desert
+TileSets/Lazybone/Tiles/Desert
   rotate: false
   xy: 0, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Desert2
+TileSets/Lazybone/Tiles/Desert2
   rotate: false
   xy: 128, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Lakes
+TileSets/Lazybone/Tiles/Lakes
   rotate: false
   xy: 256, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Ocean
+TileSets/Lazybone/Tiles/Ocean
   rotate: false
   xy: 128, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains
+TileSets/Lazybone/Tiles/Plains
   rotate: false
   xy: 256, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains2
+TileSets/Lazybone/Tiles/Plains2
   rotate: false
   xy: 384, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains3
+TileSets/Lazybone/Tiles/Plains3
   rotate: false
   xy: 384, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains4
+TileSets/Lazybone/Tiles/Plains4
   rotate: false
   xy: 512, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains5
+TileSets/Lazybone/Tiles/Plains5
   rotate: false
   xy: 512, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Plains6
+TileSets/Lazybone/Tiles/Plains6
   rotate: false
   xy: 640, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Grassland
+TileSets/Lazybone/Tiles/Grassland
   rotate: false
   xy: 640, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 5
   index: -1
-TileSets/Nameless/Tiles/Grassland2
+TileSets/Lazybone/Tiles/Grassland2
   rotate: false
   xy: 768, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 5
   index: -1
-TileSets/Nameless/Tiles/Grassland3
+TileSets/Lazybone/Tiles/Grassland3
   rotate: false
   xy: 768, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 5
   index: -1
-TileSets/Nameless/Tiles/Grassland4
+TileSets/Lazybone/Tiles/Grassland4
   rotate: false
   xy: 896, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 5
   index: -1
-TileSets/Nameless/Tiles/Grassland5
+TileSets/Lazybone/Tiles/Grassland5
   rotate: false
   xy: 896, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Grassland6
+TileSets/Lazybone/Tiles/Grassland6
   rotate: false
   xy: 1024, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Tundra
+TileSets/Lazybone/Tiles/Tundra
   rotate: false
   xy: 1024, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Tundra2
+TileSets/Lazybone/Tiles/Tundra2
   rotate: false
   xy: 1152, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Tundra3
+TileSets/Lazybone/Tiles/Tundra3
   rotate: false
   xy: 1152, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Tundra4
+TileSets/Lazybone/Tiles/Tundra4
   rotate: false
   xy: 1280, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Snow
+TileSets/Lazybone/Tiles/Snow
   rotate: false
   xy: 1280, 138
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Snow2
+TileSets/Lazybone/Tiles/Snow2
   rotate: false
   xy: 1408, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Mountain
+TileSets/Lazybone/Tiles/Mountain
   rotate: false
   xy: 1536, -10
   size: 128, 210
   orig: 128, 210
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Coast
+TileSets/Lazybone/Tiles/Coast
   rotate: false
   xy: 1664, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Ocean
+TileSets/Lazybone/Tiles/Ocean
   rotate: false
   xy: 1792, -10
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Lakes
+TileSets/Lazybone/Tiles/Lakes
   rotate: false
   xy: 1920, -10
   size: 128, 138

@@ -81,7 +81,7 @@ TileSets/Nameless/Tiles/Holy site-Songhai
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Ottomans
+TileSets/Nameless/Tiles/Holy site-The Ottomans
   rotate: false
   xy: 640, 128
   size: 128, 128
@@ -137,21 +137,21 @@ TileSets/Nameless/Tiles/Holy site-Siam
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Maya
+TileSets/Nameless/Tiles/Holy site-The Maya
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site2-Maya
+TileSets/Nameless/Tiles/Holy site2-The Maya
   rotate: false
   xy: 896, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site3-Maya
+TileSets/Nameless/Tiles/Holy site3-The Maya
   rotate: false
   xy: 1024, 0
   size: 128, 128
@@ -172,14 +172,14 @@ TileSets/Nameless/Tiles/Holy site-Iroquois
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Mongol
+TileSets/Nameless/Tiles/Holy site-Mongolia
   rotate: false
   xy: 1152, 128
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Holy site-Huns
+TileSets/Nameless/Tiles/Holy site-The Huns
   rotate: false
   xy: 1152, 128
   size: 128, 128
@@ -444,7 +444,7 @@ TileSets/Nameless/Tiles/City center-Byzantium-Medieval era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Netherland-Renaissance era
+TileSets/Nameless/Tiles/City center-The Netherlands-Renaissance era
   rotate: false
   xy: 896, 0
   size: 128, 128
@@ -569,7 +569,7 @@ TileSets/Nameless/Tiles/City center-Denmark-Renaissance era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Netherlands-Renaissance era
+TileSets/Nameless/Tiles/City center-The Netherlands-Renaissance era2
   rotate: false
   xy: 128, 0
   size: 128, 128
@@ -847,7 +847,7 @@ TileSets/Nameless/Tiles/City center-Babylon-Classical era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Ottomans-Classical era
+TileSets/Nameless/Tiles/City center-The Ottomans-Classical era
   rotate: false
   xy: 1024, 0
   size: 128, 128
@@ -917,28 +917,28 @@ TileSets/Nameless/Tiles/City center-Korea-Medieval era
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Mongol
+TileSets/Nameless/Tiles/City center-Mongolia
   rotate: false
   xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Huns-Classical era
+TileSets/Nameless/Tiles/City center-The Huns-Classical era
   rotate: false
   xy: 1664, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Mongol-Classical era
+TileSets/Nameless/Tiles/City center-Mongolia-Classical era
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/City center-Mongol-Classical era
+TileSets/Nameless/Tiles/City center-Mongolia-Classical era
   rotate: false
   xy: 1792, 0
   size: 128, 128

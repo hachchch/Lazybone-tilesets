@@ -4,98 +4,98 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Nameless/Tiles/Mount Kailash
+TileSets/Lazybone/Tiles/Mount Kailash
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Uluru
+TileSets/Lazybone/Tiles/Uluru
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Sri Pada
+TileSets/Lazybone/Tiles/Sri Pada
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Rock of Gibraltar
+TileSets/Lazybone/Tiles/Rock of Gibraltar
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Barringer Crater
+TileSets/Lazybone/Tiles/Barringer Crater
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Cerro de Potosi
+TileSets/Lazybone/Tiles/Cerro de Potosi
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Mount Sinai
+TileSets/Lazybone/Tiles/Mount Sinai
   rotate: false
   xy: 768, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Krakatoa
+TileSets/Lazybone/Tiles/Krakatoa
   rotate: false
   xy: 896, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Great Barrier Reef
+TileSets/Lazybone/Tiles/Great Barrier Reef
   rotate: false
   xy: 1024, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Mount Fuji
+TileSets/Lazybone/Tiles/Mount Fuji
   rotate: false
   xy: 1152, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Grand Mesa
+TileSets/Lazybone/Tiles/Grand Mesa
   rotate: false
   xy: 1280, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Fountain of Youth
+TileSets/Lazybone/Tiles/Fountain of Youth
   rotate: false
   xy: 1408, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/El Dorado
+TileSets/Lazybone/Tiles/El Dorado
   rotate: false
   xy: 1536, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Nameless/Tiles/Old Faithful
+TileSets/Lazybone/Tiles/Old Faithful
   rotate: false
   xy: 1664, 0
   size: 128, 128

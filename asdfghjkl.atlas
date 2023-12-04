@@ -6,7 +6,14 @@ repeat: none
 TileSets/Lazybone/Tiles/City center-Atomic era
   rotate: false
   xy: 0, 0
-  size: 256, 256
-  orig: 256, 256
+  size: 128, 219
+  orig: 128, 219
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/River
+  rotate: false
+  xy: 0, 0
+  size: 128, 219
+  orig: 128, 219
   offset: 0, 0
   index: -1

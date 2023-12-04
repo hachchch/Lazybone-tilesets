@@ -10,10 +10,17 @@ TileSets/Lazybone/Tiles/City center-Atomic era
   orig: 128, 219
   offset: 0, 0
   index: -1
-TileSets/Lazybone/Tiles/River
+TileSets/Lazybone/Tiles/River-BottomRight
   rotate: false
-  xy: 0, 0
-  size: 128, 219
-  orig: 128, 219
+  xy: -9, 347
+  size: 128, 137
+  orig: 128, 137
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/River-BottomLeft
+  rotate: false
+  xy: 0, 475
+  size: 128, 137
+  orig: 128, 137
   offset: 0, 0
   index: -1

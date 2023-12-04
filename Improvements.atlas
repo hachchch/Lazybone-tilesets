@@ -945,3 +945,114 @@ TileSets/Lazybone/Tiles/City center-China-Medieval era
   orig: 128, 128
   offset: 0, 0
   index: -1
+
+Improvements6.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/Lazybone/Tiles/City center-India
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-India-Medieval era
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Siam-Classical era
+  rotate: false
+  xy: 0, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Siam-Medieval era
+  rotate: false
+  xy: 0, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-The Ottomans-Medieval era
+  rotate: false
+  xy: 0, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Polynesia-Classical era
+  rotate: false
+  xy: 0, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Babylon-Medieval era
+  rotate: false
+  xy: 0, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Modern era
+  rotate: false
+  xy: 0, 896
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Babylon-Renaissance era
+  rotate: false
+  xy: 0, 1024
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Iroquois-Ancient era
+  rotate: false
+  xy: 0, 1152
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Iroquois-Medieval era
+  rotate: false
+  xy: 0, 1280
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-The Maya-Medieval era
+  rotate: false
+  xy: 0, 1408
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Aztecs-Medieval era
+  rotate: false
+  xy: 0, 1536
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-The Maya-Ancient era
+  rotate: false
+  xy: 0, 1664
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Lazybone/Tiles/City center-Polynesia-Medieval era
+  rotate: false
+  xy: 0, 1792
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

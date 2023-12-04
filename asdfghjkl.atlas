@@ -19,15 +19,15 @@ TileSets/Lazybone/Tiles/River-Bottom
   index: -1
 TileSets/Lazybone/Tiles/River-BottomRight
   rotate: false
-  xy: -9, 347
-  size: 128, 137
-  orig: 128, 137
+  xy: -12, 347
+  size: 128, 140
+  orig: 128, 140
   offset: 0, 0
   index: -1
 TileSets/Lazybone/Tiles/River-BottomLeft
   rotate: false
-  xy: 9, 475
-  size: 128, 137
-  orig: 128, 137
-  offset: -9, 0
+  xy: 12, 475
+  size: 128, 140
+  orig: 128, 140
+  offset: -12, 0
   index: -1
